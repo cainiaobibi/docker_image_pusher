@@ -1,2 +1,2 @@
 python:alpine3.19
-wg-easy
+wg-easy:nightly
